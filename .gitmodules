@@ -7,3 +7,6 @@
 [submodule "BookWorm"]
 	path = BookWorm
 	url = https://github.com/dhruvbhardwaj14/BookWorm.git
+[submodule "BucketList"]
+	path = BucketList
+	url = https://github.com/dhruvbhardwaj14/Bucketlist.git
