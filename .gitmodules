@@ -13,3 +13,6 @@
 [submodule "Bucketlist"]
 	path = Bucketlist
 	url = https://github.com/dhruvbhardwaj14/Bucketlist.git
+[submodule "CoreDataProject"]
+	path = CoreDataProject
+	url = https://github.com/dhruvbhardwaj14/CoreDataProject
