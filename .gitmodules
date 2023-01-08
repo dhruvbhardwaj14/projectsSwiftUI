@@ -1,3 +1,6 @@
 [submodule "Animation"]
 	path = Animation
 	url = https://github.com/dhruvbhardwaj14/Animation
+[submodule "BetterRest"]
+	path = BetterRest
+	url = https://github.com/dhruvbhardwaj14/BetterRest
