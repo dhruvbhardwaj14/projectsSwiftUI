@@ -4,3 +4,6 @@
 [submodule "BetterRest"]
 	path = BetterRest
 	url = https://github.com/dhruvbhardwaj14/BetterRest
+[submodule "BookWorm"]
+	path = BookWorm
+	url = https://github.com/dhruvbhardwaj14/BookWorm.git
