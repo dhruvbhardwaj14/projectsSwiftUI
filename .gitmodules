@@ -16,3 +16,6 @@
 [submodule "CoreDataProject"]
 	path = CoreDataProject
 	url = https://github.com/dhruvbhardwaj14/CoreDataProject
+[submodule "CupcakeCorner"]
+	path = CupcakeCorner
+	url = https://github.com/dhruvbhardwaj14/CupcakeCorner
