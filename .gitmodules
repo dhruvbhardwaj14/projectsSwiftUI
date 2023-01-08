@@ -22,3 +22,6 @@
 [submodule "Drawing"]
 	path = Drawing
 	url = https://github.com/dhruvbhardwaj14/Drawing
+[submodule "FlashZilla"]
+	path = FlashZilla
+	url = https://github.com/dhruvbhardwaj14/FlashZilla
