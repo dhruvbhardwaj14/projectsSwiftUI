@@ -37,3 +37,6 @@
 [submodule "Instafilter"]
 	path = Instafilter
 	url = https://github.com/dhruvbhardwaj14/Instafilter.git
+[submodule "LayoutAndGeometry"]
+	path = LayoutAndGeometry
+	url = https://github.com/dhruvbhardwaj14/LayoutAndGeometry.git
