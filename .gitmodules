@@ -28,3 +28,6 @@
 [submodule "GuessTheFlag"]
 	path = GuessTheFlag
 	url = https://github.com/dhruvbhardwaj14/GuessTheFlag.git
+[submodule "HotProspects"]
+	path = HotProspects
+	url = https://github.com/dhruvbhardwaj14/HotProspects.git
