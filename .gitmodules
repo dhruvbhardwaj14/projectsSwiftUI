@@ -31,3 +31,6 @@
 [submodule "HotProspects"]
 	path = HotProspects
 	url = https://github.com/dhruvbhardwaj14/HotProspects.git
+[submodule "iExpense"]
+	path = iExpense
+	url = https://github.com/dhruvbhardwaj14/iExpense.git
