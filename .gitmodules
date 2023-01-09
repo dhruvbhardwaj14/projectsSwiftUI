@@ -25,3 +25,6 @@
 [submodule "FlashZilla"]
 	path = FlashZilla
 	url = https://github.com/dhruvbhardwaj14/FlashZilla
+[submodule "GuessTheFlag"]
+	path = GuessTheFlag
+	url = https://github.com/dhruvbhardwaj14/GuessTheFlag.git
