@@ -34,3 +34,6 @@
 [submodule "iExpense"]
 	path = iExpense
 	url = https://github.com/dhruvbhardwaj14/iExpense.git
+[submodule "Instafilter"]
+	path = Instafilter
+	url = https://github.com/dhruvbhardwaj14/Instafilter.git
